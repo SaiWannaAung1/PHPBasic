@@ -1,5 +1,5 @@
 <?php
-$mark = 49;
+$mark = 60;
 
 if ($mark > 0 and $mark <= 39){
     echo "Fail";
